@@ -1,0 +1,65 @@
+---
+path: city-dating-guide
+date: 2025-12-05T10:52:00.000Z
+title: City Dating Guide
+---
+<TabList>
+	<TabPane tab="Delhi" key="1">
+		# Date Ideas in Delhi That Don’t Feel Like a Boring Hangout
+		<br/>
+		Let’s be honest — dating in Delhi isn’t always wine glasses and deep conversations. Sometimes it’s “AC chalega na?” and “bro where do we even go that’s not boring or broke-core?”
+		<br/>
+		If you're finally meeting someone from Schmooze who passed the meme vibe check, this list is your cheat sheet. No fake laughter. No overpriced coffee for no reason. Just **fun, chill, slightly offbeat places in Delhi to hang out** with someone you _might_ end up soft-launching.
+		<br/>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		<LocationCard src="https://cdn.discordapp.com/attachments/979223663062683719/1446025457479843921/city_dating_guide.png?ex=69327ba6&is=69312a26&hm=c2ce5092dc736e3416068a20eb1098e300d22e5944fb9db9a576c5148463f009&" alt="Date Ideas in Delhi">
+			# 1. Indian Coffee House, CP – Cheap Coffee, Rich Vibe
+			You’re not going here for the food. You’re going for the ✨aesthetic✨
+			<br/>
+			Wooden chairs. Waiters in old-school uniforms. Sandwiches that cost ₹40 and somehow slap. It’s where you can sit for hours and pretend you’re characters in a black-and-white movie — or two interns gossiping about your bosses. Both work.
+		</LocationCard>
+		**So What’s the Plan?**
+		<br/>
+		Delhi’s got range — from chaotic dates with MKT momos to slow-burn bookshop strolls. Whether it’s your first meet or fourth re-schedule, one of these is bound to work.
+		And if not? At least now you know who’s allergic to spice, afraid of peacocks, or fakes book interest really well.
+		Now go schmooze. The city’s waiting.
+	</TabPane>
+	<TabPane tab="Mumbai" key="2">
+		Mumbai
+	</TabPane>
+	<TabPane tab="Bangalore" key="3">
+		Bangalore
+	</TabPane>
+	<TabPane tab="Pune" key="4">
+		Pune
+	</TabPane>
+</TabList>
